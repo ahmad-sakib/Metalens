@@ -1,0 +1,7 @@
+# Exclude heavy simulation outputs & data dumps
+*.h5
+*.hdf5
+*.vtu
+*.mat
+*.gds
+*.csv
