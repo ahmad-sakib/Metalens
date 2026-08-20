@@ -5,3 +5,8 @@
 *.mat
 *.gds
 *.csv
+# Python environment & cache
+__pycache__/
+*.pyc
+.venv/
+EOF
